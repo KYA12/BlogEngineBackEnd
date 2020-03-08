@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendTestTask</name>
+    </assembly>
+    <members>
+        <member name="M:BackendTestTask.Controllers.AdminController.AddPost(BackendTestTask.DTO.PostDTO)">
+            <summary>
+            Creates a new Post
+            </summary>
+            <param name="post">Post model</param>
+            <returns>A response with new post</returns>
+            <response code="200">Returns the post list</response>
+            <response code="201">A response as creation of post</response>
+            <response code="400">For bad request</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.AdminController.DeletePost(System.Int32)">
+            <summary>
+            Deletes an existing Post
+            </summary>
+            <param name="id">Post ID</param>
+            <returns>A response as delete post result</returns>
+            <response code="200">If post was deleted successfully</response>
+            <response code="404">If post is not exists</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.AdminController.GetAllPosts">
+            <summary>
+            Retrieves Posts list
+            </summary>
+            <returns>A response with posts list</returns>
+            <response code="200">Returns the posts list</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.AdminController.GetPostById(System.Int32)">
+            <summary>
+            Retrieves a Post by ID
+            </summary>
+            <param name="id">Post id</param>
+            <returns>A response with post</returns>
+            <response code="200">Returns post list</response>
+            <response code="404">If post is not exists</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.AdminController.UpdatePost(BackendTestTask.DTO.PostDTO,System.Int32)">
+            <summary>
+            Updates an existing Post
+            </summary>
+            <param name="Id">Post ID</param>
+            <param name="post">Post model</param>
+            <returns>A response as update post result</returns>
+            <response code="200">If post was updated successfully</response>
+            <response code="400">For bad request</response>
+            <response code="404">If post is not exists</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.PostsController.GetAllPosts">
+            <summary>
+            Retrieves Posts list
+            </summary>
+            <returns>A response with posts list</returns>
+            <response code="200">Returns the posts list</response>
+            <response code="404">If post is not exists</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.PostsController.GetPostById(System.Int32)">
+            <summary>
+            Retrieves a Post by ID
+            </summary>
+            <param name="id">Post id</param>
+            <returns>A response with post</returns>
+            <response code="200">Returns post list</response>
+            <response code="404">If post is not exists</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:BackendTestTask.Controllers.PostsController.AddComment(BackendTestTask.DTO.CommentDTO)">
+            <summary>
+            Updates an existing Post with new Comment
+            </summary>
+            <param name="comment">Comment model</param>
+            <returns>A response as update post result</returns>
+            <response code="200">If post was updated successfully</response>
+            <response code="400">For bad request</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+    </members>
+</doc>

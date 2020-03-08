@@ -1,0 +1,20 @@
+2020-01-29 23:26:24.143 +02:00 [INF] Returned all posts from database.
+2020-01-29 23:26:25.139 +02:00 [INF] HTTP GET /api/posts responded 200 in 12463.8087 ms
+2020-01-29 23:26:42.868 +02:00 [INF] Returned post with id: 1
+2020-01-29 23:26:42.877 +02:00 [INF] HTTP GET /api/posts/1 responded 200 in 779.9563 ms
+2020-01-29 23:26:45.369 +02:00 [INF] HTTP GET /api/posts/1/5 responded 404 in 14.4555 ms
+2020-01-29 23:26:49.558 +02:00 [ERR] Post with id: 14, hasn't been found in database.
+2020-01-29 23:26:49.647 +02:00 [INF] HTTP GET /api/posts/14 responded 404 in 371.5589 ms
+2020-01-29 23:35:39.111 +02:00 [INF] HTTP GET / responded 404 in 2.8213 ms
+2020-01-29 23:35:45.096 +02:00 [INF] AuthenticationScheme: ApiKey was challenged.
+2020-01-29 23:35:45.107 +02:00 [INF] HTTP GET /api/admin responded 401 in 116.6304 ms
+2020-01-29 23:35:53.059 +02:00 [INF] Returned all posts from database.
+2020-01-29 23:35:53.070 +02:00 [INF] HTTP GET /api/posts responded 200 in 802.6186 ms
+2020-01-29 23:36:22.205 +02:00 [INF] Returned post with id: 1
+2020-01-29 23:36:22.212 +02:00 [INF] HTTP GET /api/posts/1 responded 200 in 155.0694 ms
+2020-01-29 23:36:27.122 +02:00 [ERR] Post with id: 12, hasn't been found in database.
+2020-01-29 23:36:27.137 +02:00 [INF] HTTP GET /api/posts/12 responded 404 in 105.3993 ms
+2020-01-29 23:36:30.490 +02:00 [ERR] Post with id: 14, hasn't been found in database.
+2020-01-29 23:36:30.507 +02:00 [INF] HTTP GET /api/posts/14 responded 404 in 55.8846 ms
+2020-01-29 23:36:33.162 +02:00 [INF] Returned post with id: 1
+2020-01-29 23:36:33.166 +02:00 [INF] HTTP GET /api/posts/1 responded 200 in 57.466 ms

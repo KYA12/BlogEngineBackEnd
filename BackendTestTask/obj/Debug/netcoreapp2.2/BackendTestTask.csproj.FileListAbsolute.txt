@@ -1,0 +1,16 @@
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask.deps.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask.runtimeconfig.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask.runtimeconfig.dev.json
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask.dll
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask.pdb
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.csprojAssemblyReference.cache
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.RazorAssemblyInfo.cache
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.RazorAssemblyInfo.cs
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.AssemblyInfoInputs.cache
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.AssemblyInfo.cs
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.RazorTargetAssemblyInfo.cache
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.dll
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask.pdb

@@ -1,0 +1,13 @@
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\BackendCopy.exe
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\BackendCopy.csprojAssemblyReference.cache
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\staticwebassets\BackendCopy.StaticWebAssets.Manifest.cache
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\staticwebassets\BackendCopy.StaticWebAssets.xml
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\BackendCopy.AssemblyInfoInputs.cache
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\BackendCopy.AssemblyInfo.cs
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\BackendCopy.RazorTargetAssemblyInfo.cache
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\Project\BackendCopy\BackendCopy\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\BackendCopy\BackendCopy\obj\Debug\netcoreapp3.0\BackendCopy.csproj.CopyComplete

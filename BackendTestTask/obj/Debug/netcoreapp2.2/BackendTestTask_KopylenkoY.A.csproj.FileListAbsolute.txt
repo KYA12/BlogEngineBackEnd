@@ -1,0 +1,16 @@
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\appsettings.Development.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\appsettings.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.deps.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.runtimeconfig.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.runtimeconfig.dev.json
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.dll
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.csprojAssemblyReference.cache
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.RazorAssemblyInfo.cache
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.RazorAssemblyInfo.cs
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.AssemblyInfoInputs.cache
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.AssemblyInfo.cs
+d:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.RazorTargetAssemblyInfo.cache
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\bin\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.pdb
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.dll
+D:\Proj\BackendTestTask_KopylenkoY.A\BackendTestTask_KopylenkoY.A\obj\Debug\netcoreapp2.2\BackendTestTask_KopylenkoY.A.pdb

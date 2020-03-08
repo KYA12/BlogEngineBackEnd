@@ -1,0 +1,7 @@
+2020-01-29 23:12:55.234 +02:00 [INF] Returned all posts from database.
+2020-01-29 23:12:55.686 +02:00 [INF] HTTP GET /api/posts responded 200 in 9865.6908 ms
+2020-01-29 23:13:58.790 +02:00 [INF] Returned post with id: 1
+2020-01-29 23:13:58.799 +02:00 [INF] HTTP GET /api/posts/1 responded 200 in 624.6142 ms
+2020-01-29 23:14:14.828 +02:00 [INF] Returned all posts from database.
+2020-01-29 23:14:14.837 +02:00 [INF] HTTP GET /api/posts/ responded 200 in 679.0233 ms
+2020-01-29 23:26:10.821 +02:00 [INF] Starting up
